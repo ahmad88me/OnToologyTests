@@ -51,6 +51,7 @@ Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan
 - geoNames
 - cruzar
 
+
 Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suficiente sobre los términos que se incluyen en ella. </rdfs:comment>
         <dc:identifier rdf:datatype="&xsd;dateTime">http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento</dc:identifier>
         <dc:creator>Miguel Angel García Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)</dc:creator>
